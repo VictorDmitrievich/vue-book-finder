@@ -1,4 +1,4 @@
-<template>
+<template>а
   <div class="container-fluid">
      <app-navbar></app-navbar>
      <router-view></router-view>
