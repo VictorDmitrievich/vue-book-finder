@@ -1,4 +1,4 @@
-import Vue from 'vue'
+import Vue from 'vue'а
 import Vuex from 'vuex'
 import axios from 'axios'
 import {router} from './routes'
