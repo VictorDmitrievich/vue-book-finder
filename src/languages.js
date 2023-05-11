@@ -1,4 +1,4 @@
-
+а
 export const isoLangs = 
 [
      {code:"ab",name:"Abkhaz",nativeName:"аҧсуа"},
