@@ -1,4 +1,4 @@
-<template>а
+<template>
     <div class="container-fluid">
         <div class="card mb-3" style="max-width: 540px; background-color:#FFFAFA">
             <div class="row no-gutters" data-toggle="modal" data-target="#exampleModal" @click="sendBook(book)" style="margin:10px">
