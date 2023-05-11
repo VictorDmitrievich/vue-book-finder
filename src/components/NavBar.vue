@@ -1,4 +1,4 @@
-<template>а
+<template>
 <nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
     <router-link to="/">
             <a class="navbar-brand">Home</a>
