@@ -1,4 +1,4 @@
-<template>а
+<template>
   <div
     class="modal fade"
     id="exampleModal"
