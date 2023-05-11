@@ -1,4 +1,4 @@
-<template>
+<template>а
     <div>
         <footer class="page-footer bottom font-small blue">
             <!-- Copyright -->
