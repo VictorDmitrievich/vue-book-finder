@@ -1,4 +1,4 @@
-а<template>
+<template>
   <div class="container">
     <br>
     <br>
